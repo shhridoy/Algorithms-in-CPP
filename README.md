@@ -1,1 +1,2 @@
-# Algorithms_in_C-
+## Algorithms_in_CPP
+This is the repository of All basic algorithms :)
